@@ -8,7 +8,7 @@ This static GitHub Pages website highlights three research pillars:
 
 ## Setup
 
-1. Replace `YOUR_GITHUB_USERNAME`, `YOUR_GOOGLE_SCHOLAR_URL`, and `YOUR_ORCID_URL`.
+1. GitHub username has already been updated to `wtj051`. GitHub username, Google Scholar, and ORCID links have already been updated.
 2. Add a public CV PDF at `assets/Tianjing_Wang_CV_public.pdf`.
-3. Push these files to the root of `YOUR_GITHUB_USERNAME.github.io`.
+3. Push these files to the root of `wtj051.github.io`.
 4. In repository settings, enable GitHub Pages from the main branch and root folder if needed.
